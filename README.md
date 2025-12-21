@@ -62,11 +62,13 @@ Gradio-based conversational interface with example queries for easy testing.
 ```
 
 ## Technologies Used
+```
 Python 3.8+
 LangChain 
 LangGraph 
 OpenAI GPT Models 
-OpenAI Embeddings (text-embedding-3-small) 
+OpenAI Embeddings (text-embedding-3-small)
+```
 
 ## Setup
 ```bash
